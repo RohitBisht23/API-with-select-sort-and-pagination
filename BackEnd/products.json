@@ -1,0 +1,1802 @@
+[
+    {
+        "name": "inspiron",
+        "price": 5534,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "iphone",
+        "price": 35238,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "macbook",
+        "price": 38784,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "tab",
+        "price": 13952,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "asha",
+        "price": 23343,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "iphone",
+        "price": 40341,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "inspiron",
+        "price": 20652,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "redmi",
+        "price": 9045,
+        "feature": true,
+        "company": "mi"
+    },
+    {
+        "name": "mi10",
+        "price": 29309,
+        "feature": false,
+        "company": "mi"
+    },
+    {
+        "name": "lumia",
+        "price": 36316,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "note",
+        "price": 10280,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "xps",
+        "price": 30879,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "alienware",
+        "price": 22456,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "redmi",
+        "price": 29766,
+        "feature": false,
+        "company": "mi"
+    },
+    {
+        "name": "poco",
+        "price": 39177,
+        "feature": false,
+        "company": "mi"
+    },
+    {
+        "name": "mi10",
+        "price": 44562,
+        "feature": false,
+        "company": "mi"
+    },
+    {
+        "name": "xps",
+        "price": 40879,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "iphone",
+        "price": 31122,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "xpressmusic",
+        "price": 30299,
+        "feature": false,
+        "company": "nokia"
+    },
+    {
+        "name": "inspiron",
+        "price": 34703,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "inspiron",
+        "price": 20698,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "note",
+        "price": 40415,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "alienware",
+        "price": 6634,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "ipad",
+        "price": 48406,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "tab",
+        "price": 40131,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "ipad",
+        "price": 40029,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "lumia",
+        "price": 36153,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "xps",
+        "price": 26246,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "ipad",
+        "price": 46088,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "asha",
+        "price": 34635,
+        "feature": false,
+        "company": "nokia"
+    },
+    {
+        "name": "inspiron",
+        "price": 21998,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "poco",
+        "price": 5995,
+        "feature": true,
+        "company": "mi"
+    },
+    {
+        "name": "poco",
+        "price": 11750,
+        "feature": true,
+        "company": "mi"
+    },
+    {
+        "name": "note",
+        "price": 49862,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "asha",
+        "price": 49084,
+        "feature": false,
+        "company": "nokia"
+    },
+    {
+        "name": "inspiron",
+        "price": 39566,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "alienware",
+        "price": 19896,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "lumia",
+        "price": 15811,
+        "feature": false,
+        "company": "nokia"
+    },
+    {
+        "name": "note",
+        "price": 27046,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "xps",
+        "price": 25045,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "xps",
+        "price": 26576,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "xps",
+        "price": 44785,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "xps",
+        "price": 23601,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "inspiron",
+        "price": 16448,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "inspiron",
+        "price": 36465,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "ipad",
+        "price": 44403,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "xpressmusic",
+        "price": 34771,
+        "feature": false,
+        "company": "nokia"
+    },
+    {
+        "name": "tab",
+        "price": 28719,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "lumia",
+        "price": 43853,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "galaxy",
+        "price": 16913,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "xpressmusic",
+        "price": 13918,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "lumia",
+        "price": 12647,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "xps",
+        "price": 28315,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "alienware",
+        "price": 34470,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "xpressmusic",
+        "price": 48126,
+        "feature": false,
+        "company": "nokia"
+    },
+    {
+        "name": "redmi",
+        "price": 32119,
+        "feature": false,
+        "company": "mi"
+    },
+    {
+        "name": "redmi",
+        "price": 24860,
+        "feature": false,
+        "company": "mi"
+    },
+    {
+        "name": "asha",
+        "price": 24022,
+        "feature": false,
+        "company": "nokia"
+    },
+    {
+        "name": "ipad",
+        "price": 16544,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone",
+        "price": 44529,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "mi10",
+        "price": 32970,
+        "feature": true,
+        "company": "mi"
+    },
+    {
+        "name": "lumia",
+        "price": 48595,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "xps",
+        "price": 40924,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "redmi",
+        "price": 9539,
+        "feature": false,
+        "company": "mi"
+    },
+    {
+        "name": "iphone",
+        "price": 49723,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "iphone",
+        "price": 23460,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "iphone",
+        "price": 8643,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "iphone",
+        "price": 40024,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "galaxy",
+        "price": 37924,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "lumia",
+        "price": 9894,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "macbook",
+        "price": 45403,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "tab",
+        "price": 5815,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "note",
+        "price": 24624,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "asha",
+        "price": 25260,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "tab",
+        "price": 45349,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "note",
+        "price": 38713,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "ipad",
+        "price": 18635,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "ipad",
+        "price": 11962,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "iphone",
+        "price": 18490,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "asha",
+        "price": 5481,
+        "feature": false,
+        "company": "nokia"
+    },
+    {
+        "name": "xpressmusic",
+        "price": 35441,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "ipad",
+        "price": 22948,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "poco",
+        "price": 27483,
+        "feature": true,
+        "company": "mi"
+    },
+    {
+        "name": "asha",
+        "price": 47937,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "poco",
+        "price": 47803,
+        "feature": true,
+        "company": "mi"
+    },
+    {
+        "name": "tab",
+        "price": 33045,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "inspiron",
+        "price": 36200,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "mi10",
+        "price": 46564,
+        "feature": true,
+        "company": "mi"
+    },
+    {
+        "name": "alienware",
+        "price": 49179,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "iphone",
+        "price": 38525,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "xps",
+        "price": 30725,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "galaxy",
+        "price": 30902,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "galaxy",
+        "price": 6716,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "redmi",
+        "price": 39879,
+        "feature": true,
+        "company": "mi"
+    },
+    {
+        "name": "ipad",
+        "price": 12858,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "macbook",
+        "price": 16488,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "ipad",
+        "price": 44582,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "ipad",
+        "price": 42204,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "macbook",
+        "price": 30250,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "note",
+        "price": 5351,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "xps",
+        "price": 36421,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "tab",
+        "price": 37872,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "ipad",
+        "price": 45418,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "poco",
+        "price": 19983,
+        "feature": false,
+        "company": "mi"
+    },
+    {
+        "name": "note",
+        "price": 49099,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "xps",
+        "price": 8654,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "tab",
+        "price": 46549,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "xps",
+        "price": 9145,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "galaxy",
+        "price": 43098,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "mi10",
+        "price": 11762,
+        "feature": true,
+        "company": "mi"
+    },
+    {
+        "name": "macbook",
+        "price": 14000,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "ipad",
+        "price": 9866,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "asha",
+        "price": 21279,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "ipad",
+        "price": 9131,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "macbook",
+        "price": 26392,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "ipad",
+        "price": 43712,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "inspiron",
+        "price": 35333,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "note",
+        "price": 39338,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "iphone",
+        "price": 18870,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "asha",
+        "price": 29762,
+        "feature": false,
+        "company": "nokia"
+    },
+    {
+        "name": "macbook",
+        "price": 27625,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "mi10",
+        "price": 15342,
+        "feature": false,
+        "company": "mi"
+    },
+    {
+        "name": "iphone",
+        "price": 37990,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "mi10",
+        "price": 24816,
+        "feature": true,
+        "company": "mi"
+    },
+    {
+        "name": "iphone",
+        "price": 31346,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "galaxy",
+        "price": 21122,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "galaxy",
+        "price": 37187,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "lumia",
+        "price": 8443,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "note",
+        "price": 22548,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "iphone",
+        "price": 5425,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "lumia",
+        "price": 24875,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "tab",
+        "price": 46046,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "ipad",
+        "price": 32207,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "mi10",
+        "price": 46066,
+        "feature": false,
+        "company": "mi"
+    },
+    {
+        "name": "ipad",
+        "price": 43740,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "asha",
+        "price": 14992,
+        "feature": false,
+        "company": "nokia"
+    },
+    {
+        "name": "galaxy",
+        "price": 24795,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "redmi",
+        "price": 34241,
+        "feature": false,
+        "company": "mi"
+    },
+    {
+        "name": "macbook",
+        "price": 27979,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "poco",
+        "price": 12377,
+        "feature": true,
+        "company": "mi"
+    },
+    {
+        "name": "xps",
+        "price": 17593,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "inspiron",
+        "price": 20419,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "asha",
+        "price": 31627,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "macbook",
+        "price": 39622,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "alienware",
+        "price": 15649,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "inspiron",
+        "price": 10309,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "inspiron",
+        "price": 30387,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "redmi",
+        "price": 20935,
+        "feature": false,
+        "company": "mi"
+    },
+    {
+        "name": "inspiron",
+        "price": 14008,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "poco",
+        "price": 23995,
+        "feature": false,
+        "company": "mi"
+    },
+    {
+        "name": "galaxy",
+        "price": 22108,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "lumia",
+        "price": 32988,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "note",
+        "price": 21139,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "ipad",
+        "price": 15152,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "galaxy",
+        "price": 28237,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "asha",
+        "price": 45276,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "tab",
+        "price": 25688,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "iphone",
+        "price": 23077,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "lumia",
+        "price": 6773,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "xps",
+        "price": 14907,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "macbook",
+        "price": 48550,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "note",
+        "price": 23788,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "mi10",
+        "price": 25200,
+        "feature": true,
+        "company": "mi"
+    },
+    {
+        "name": "tab",
+        "price": 47149,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "xpressmusic",
+        "price": 8121,
+        "feature": false,
+        "company": "nokia"
+    },
+    {
+        "name": "redmi",
+        "price": 44223,
+        "feature": false,
+        "company": "mi"
+    },
+    {
+        "name": "poco",
+        "price": 26215,
+        "feature": true,
+        "company": "mi"
+    },
+    {
+        "name": "tab",
+        "price": 12373,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "xpressmusic",
+        "price": 13891,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "note",
+        "price": 37895,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "tab",
+        "price": 18986,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "inspiron",
+        "price": 43840,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "lumia",
+        "price": 44555,
+        "feature": false,
+        "company": "nokia"
+    },
+    {
+        "name": "ipad",
+        "price": 28948,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "lumia",
+        "price": 14532,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "inspiron",
+        "price": 17593,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "alienware",
+        "price": 38148,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "mi10",
+        "price": 7439,
+        "feature": true,
+        "company": "mi"
+    },
+    {
+        "name": "asha",
+        "price": 30344,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "asha",
+        "price": 44337,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "iphone",
+        "price": 27179,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "macbook",
+        "price": 48079,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "alienware",
+        "price": 36103,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "asha",
+        "price": 33344,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "galaxy",
+        "price": 22219,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "redmi",
+        "price": 31539,
+        "feature": false,
+        "company": "mi"
+    },
+    {
+        "name": "galaxy",
+        "price": 22067,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "redmi",
+        "price": 12901,
+        "feature": false,
+        "company": "mi"
+    },
+    {
+        "name": "mi10",
+        "price": 38746,
+        "feature": true,
+        "company": "mi"
+    },
+    {
+        "name": "redmi",
+        "price": 6984,
+        "feature": true,
+        "company": "mi"
+    },
+    {
+        "name": "asha",
+        "price": 14465,
+        "feature": false,
+        "company": "nokia"
+    },
+    {
+        "name": "galaxy",
+        "price": 28085,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "macbook",
+        "price": 8286,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "lumia",
+        "price": 39809,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "macbook",
+        "price": 15305,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "alienware",
+        "price": 31102,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "tab",
+        "price": 22787,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "poco",
+        "price": 18952,
+        "feature": true,
+        "company": "mi"
+    },
+    {
+        "name": "redmi",
+        "price": 39521,
+        "feature": false,
+        "company": "mi"
+    },
+    {
+        "name": "lumia",
+        "price": 39815,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "note",
+        "price": 6239,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "xps",
+        "price": 42563,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "mi10",
+        "price": 30470,
+        "feature": false,
+        "company": "mi"
+    },
+    {
+        "name": "xps",
+        "price": 7081,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "asha",
+        "price": 22020,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "asha",
+        "price": 48348,
+        "feature": false,
+        "company": "nokia"
+    },
+    {
+        "name": "tab",
+        "price": 45729,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "ipad",
+        "price": 48062,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "ipad",
+        "price": 15790,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "ipad",
+        "price": 46689,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "ipad",
+        "price": 34862,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "lumia",
+        "price": 43254,
+        "feature": false,
+        "company": "nokia"
+    },
+    {
+        "name": "galaxy",
+        "price": 24571,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "note",
+        "price": 20105,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "galaxy",
+        "price": 14217,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "alienware",
+        "price": 34859,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "inspiron",
+        "price": 23360,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "iphone",
+        "price": 12623,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "inspiron",
+        "price": 20382,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "poco",
+        "price": 23266,
+        "feature": false,
+        "company": "mi"
+    },
+    {
+        "name": "alienware",
+        "price": 32830,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "inspiron",
+        "price": 21653,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "tab",
+        "price": 14499,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "xpressmusic",
+        "price": 23275,
+        "feature": false,
+        "company": "nokia"
+    },
+    {
+        "name": "ipad",
+        "price": 10819,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "iphone",
+        "price": 19673,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "tab",
+        "price": 15281,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "lumia",
+        "price": 49237,
+        "feature": false,
+        "company": "nokia"
+    },
+    {
+        "name": "note",
+        "price": 12909,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "alienware",
+        "price": 19827,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "xps",
+        "price": 31194,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "iphone",
+        "price": 45146,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "note",
+        "price": 35564,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "inspiron",
+        "price": 23050,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "xpressmusic",
+        "price": 40512,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "mi10",
+        "price": 25965,
+        "feature": true,
+        "company": "mi"
+    },
+    {
+        "name": "ipad",
+        "price": 28676,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "xpressmusic",
+        "price": 19963,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "xpressmusic",
+        "price": 38136,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "lumia",
+        "price": 8697,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "xps",
+        "price": 11288,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "asha",
+        "price": 23656,
+        "feature": false,
+        "company": "nokia"
+    },
+    {
+        "name": "ipad",
+        "price": 40302,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "ipad",
+        "price": 15716,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "galaxy",
+        "price": 40091,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "asha",
+        "price": 13605,
+        "feature": false,
+        "company": "nokia"
+    },
+    {
+        "name": "redmi",
+        "price": 40476,
+        "feature": false,
+        "company": "mi"
+    },
+    {
+        "name": "lumia",
+        "price": 17854,
+        "feature": false,
+        "company": "nokia"
+    },
+    {
+        "name": "iphone",
+        "price": 5345,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "xpressmusic",
+        "price": 35443,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "note",
+        "price": 12156,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "iphone",
+        "price": 18200,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "tab",
+        "price": 20177,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "asha",
+        "price": 47287,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "macbook",
+        "price": 18864,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "alienware",
+        "price": 15647,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "lumia",
+        "price": 30489,
+        "feature": false,
+        "company": "nokia"
+    },
+    {
+        "name": "galaxy",
+        "price": 47804,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "tab",
+        "price": 37933,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "lumia",
+        "price": 19609,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "tab",
+        "price": 22067,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "macbook",
+        "price": 21814,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "asha",
+        "price": 21591,
+        "feature": false,
+        "company": "nokia"
+    },
+    {
+        "name": "poco",
+        "price": 11884,
+        "feature": true,
+        "company": "mi"
+    },
+    {
+        "name": "xps",
+        "price": 8552,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "xpressmusic",
+        "price": 36918,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "alienware",
+        "price": 26965,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "iphone",
+        "price": 35959,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "inspiron",
+        "price": 30409,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "redmi",
+        "price": 36407,
+        "feature": true,
+        "company": "mi"
+    },
+    {
+        "name": "asha",
+        "price": 15376,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "tab",
+        "price": 13609,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "tab",
+        "price": 10044,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "xps",
+        "price": 46789,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "mi10",
+        "price": 36319,
+        "feature": false,
+        "company": "mi"
+    },
+    {
+        "name": "poco",
+        "price": 34697,
+        "feature": false,
+        "company": "mi"
+    },
+    {
+        "name": "iphone",
+        "price": 28956,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "alienware",
+        "price": 42571,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "alienware",
+        "price": 33874,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "inspiron",
+        "price": 13618,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "alienware",
+        "price": 30130,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "tab",
+        "price": 15298,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "xpressmusic",
+        "price": 23485,
+        "feature": false,
+        "company": "nokia"
+    },
+    {
+        "name": "galaxy",
+        "price": 42318,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "mi10",
+        "price": 22174,
+        "feature": false,
+        "company": "mi"
+    },
+    {
+        "name": "asha",
+        "price": 42262,
+        "feature": false,
+        "company": "nokia"
+    },
+    {
+        "name": "xpressmusic",
+        "price": 25475,
+        "feature": true,
+        "company": "nokia"
+    },
+    {
+        "name": "asha",
+        "price": 40670,
+        "feature": false,
+        "company": "nokia"
+    },
+    {
+        "name": "poco",
+        "price": 39039,
+        "feature": false,
+        "company": "mi"
+    },
+    {
+        "name": "ipad",
+        "price": 35866,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "alienware",
+        "price": 31589,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "inspiron",
+        "price": 20386,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "ipad",
+        "price": 48790,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "tab",
+        "price": 49641,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "inspiron",
+        "price": 41827,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "inspiron",
+        "price": 20140,
+        "feature": true,
+        "company": "dell"
+    },
+    {
+        "name": "tab",
+        "price": 6950,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "macbook",
+        "price": 14093,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "ipad",
+        "price": 13989,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "poco",
+        "price": 10475,
+        "feature": true,
+        "company": "mi"
+    }
+]
